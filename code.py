@@ -4,7 +4,6 @@ def is_palindrome(n):
     else:
         return False
 
-
 def convert_to_str(n):
     n=str(n)
     return n
